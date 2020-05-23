@@ -1,2 +1,3 @@
-# osc_oled
-OSC to SSD1306 OLED 
+# OSC -> OLED 
+
+Recieves OSC, displays graphics on SSD1306 128x64 OLED
